@@ -18,7 +18,7 @@ class Largest2
 		int nth=sc.nextInt();
 		System.out.println("enter m value for maximun:");
 		int mth=sc.nextInt();
-		int min=a[nth-1];	
+		int min=a[nth-1];	 
 		int max=a[size-mth];
 		int sum=max+min;
 		int diff=max-min;
